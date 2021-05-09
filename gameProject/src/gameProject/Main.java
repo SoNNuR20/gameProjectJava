@@ -38,7 +38,7 @@ public class Main {
 			         new Campaign(1, "New Year Campaign",50)
 			         );
 		System.out.println("                                                  ");
-		System.out.println("                   SONNUR                         ");
+		System.out.println("                   SONNUR                          ");
 	}
 
 }
