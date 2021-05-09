@@ -37,8 +37,8 @@ public class Main {
 			         new Gamer(1, "Sonnur", "Tayfuroðlu", 1995, "11111111111"),
 			         new Campaign(1, "New Year Campaign",50)
 			         );
-	
-		
+		System.out.println("                                                  ");
+		System.out.println("SONNUR TAYFUROÐLU");
 	}
 
 }
